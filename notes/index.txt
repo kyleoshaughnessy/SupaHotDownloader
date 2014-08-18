@@ -1,0 +1,22 @@
+database structure:
+	TV SHOWS [db]:
+		tv show A [table]:
+			episode 1x01, http://.../show.torrent [row entry]
+			.
+			.
+			.
+			episode NxMM, http://.../show.torrent [row entry]
+		.
+		.
+		.
+		tv show Z [table]:
+			.
+			.
+			.
+			
+	MOVIES [db]:
+		movie a [table]:
+			http://.../movie.torrent [row entry]
+		.
+		.
+		.
